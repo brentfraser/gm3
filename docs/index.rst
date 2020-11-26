@@ -21,7 +21,10 @@ Installing
 
 -  `On Windows: MS4W <./ms4w-quickstart/index.rst>`__
 -  `On \*nix-systems <./quickstart.rst>`__
--  `Installing on EC2 <./quickstart-ec2.rst>`__ ## Customizing
+-  `Installing on EC2 <./quickstart-ec2.rst>`__
+
+Customizing
+-----------
 
 Inside the Example Desktop demo app
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
